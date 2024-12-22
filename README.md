@@ -1,12 +1,9 @@
 #  <img align="left" alt="logo" width="40px" style="padding-right:10px; " src="https://miftakhul.com/images/logo.png" />  Muhammad Miftakhul Ulum
 
 
-
 A Bachelor of Informatics Engineering graduate with a strong interest and experience in web development and cloud computing. Possesses in-depth knowledge of web and backend development using PHP, Laravel, MySQL, Bootstrap, Tailwind and Python, flask. Skilled in implementing cloud architectures, including serverless and on-demand solutions, as well as resource monitoring in GCP and AWS. Currently working as a freelance web developer and web scraping, documenting activities and projects on my blog, <a href="https://miftakhul.com">miftakhul.com</a>. Seeking opportunities to contribute to professional, quality-focused engineering environments.
 
 ---
-
-
 
 ### 💥 Tools  💫 
 
@@ -29,5 +26,6 @@ A Bachelor of Informatics Engineering graduate with a strong interest and experi
 
 ### 🤳 Additional
 
+- 🕸  Personal Website : <a href="https://miftakhul.com">miftakhul.com</a>
 - 📫 Reach me on Insta : <a href="https://instagram.com/ini_ulum">ini_ulum</a>
 - 👍 Linkedin : <a href="https://id.linkedin.com/in/miftakhululum">Muhammad Miftakhul Ulum</a>
